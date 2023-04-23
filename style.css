@@ -22,7 +22,8 @@ body {
 
 @media (max-width: 768px) {
 
-  .img-wrapper { text-align: center;
+  .img-wrapper {
+    text-align: center;
   }
 
 }
@@ -163,7 +164,7 @@ body {
 }
 
 .task-list__ul li.edit-mode .task-input[type=text] {
-  display:inline-block;
+  display: inline-block;
   width: 224px;
 }
 
